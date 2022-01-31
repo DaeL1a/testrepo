@@ -1,0 +1,5 @@
+c:\work\WebexBundle.exe INSTALL_ROOT="C:\Program Files" ALLUSERS=1
+
+c:\downloads\webex.msi INSTALL_ROOT="D:\Instalari" ALLUSERS=1
+
+https://help.webex.com/en-US/article/nw5p67g/Webex-App-%7C-Installation-and-Automatic-Upgrade#Cisco_Reference.dita_47aa62ea-033a-44da-b934-9a0da81600bf
